@@ -1,6 +1,6 @@
 ### Hi there 👋
-# SDE Intern @cogoport
-# Ex-SDE Intern @Parth
+ SDE Intern @cogoport
+ Ex-SDE Intern @Parth
 
 
 <span>
