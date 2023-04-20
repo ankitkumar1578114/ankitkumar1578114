@@ -11,12 +11,11 @@
       Main Projects
     </h2> 
     <h4> <a href="https://github.com/ankitkumar1578114/Cinegram">Cinegram </a></h4>
-    <h4  <a href=https://github.com/NITP-Web-Developer/Quick-Finder-Frontend">Quick Finder</a> </h4>
-    <h4>B-Live</h4>
-    <h2>
+    <h4> <a href="https://github.com/NITP-Web-Developer/Quick-Finder-Frontend">Quick Finder</a> </h4>
+    <h4> <a href="https://github.com/ankitkumar1578114/B-LIVE">B-Live</h4>
+
+   <h2>
       Active Projects
     </h2>
-    <h4>
-      Crick Admin
-    </h4>
- </div>
+   <h4> <a href="https://github.com/ankitkumar1578114/crick-admin">Crick Admin </a></h4>
+</div>
