@@ -10,7 +10,7 @@
     <h2>
       Main Projects
     </h2> 
-    <h3>Cinegram </h3>
-    <h3>Quick Finder </h3>
-    <h3>B-Live</h3>
+    <h4>Cinegram </h4>
+    <h4>Quick Finder </h4>
+    <h4>B-Live</h4>
  </div>
