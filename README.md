@@ -10,8 +10,8 @@
     <h2>
       Main Projects
     </h2> 
-    <h4> <a href=""https://github.com/ankitkumar1578114/Cinegram>Cinegram </a></h4>
-    <h4>Quick Finder </h4>
+    <h4> <a href="https://github.com/ankitkumar1578114/Cinegram">Cinegram </a></h4>
+    <h4  <a href=https://github.com/NITP-Web-Developer/Quick-Finder-Frontend">Quick Finder</a> </h4>
     <h4>B-Live</h4>
     <h2>
       Active Projects
