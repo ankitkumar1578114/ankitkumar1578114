@@ -1,12 +1,12 @@
 ### Hi there 👋
 <div style="display:flex;justify-content:space-between;">
 <div>
-  Experience
+  <h2>
+    Experience
   </h2> 
   SDE Intern @cogoport
   Ex-SDE Intern @Parth 
  </div>
- <h2>
 
  <div>
  <span>
