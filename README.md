@@ -5,7 +5,7 @@
     <h2>
       Experience
     </h2> 
-     SDE Intern @cogoport <br/>
+     SDE Intern @Cogoport <br/>
      SDE Intern @Parth 
     <h2>
       Main Projects
