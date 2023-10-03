@@ -18,5 +18,5 @@
    <h2>
       Active Projects
     </h2>
-   <h4> <a href="https://github.com/ankitkumar1578114/crick-admin">Crick Admin </a></h4>
+   <h4> <a href="https://github.com/ankitkumar1578114/crick-admin-frontend">Crick Admin </a></h4>
 </div>
