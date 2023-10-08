@@ -6,8 +6,9 @@
     <h2>
       Experience
     </h2> 
-     SDE Intern @Cogoport <br/>
-     Ex - SDE Intern @Parth 
+     SDE @Cogoport (July 2023 - Present)<br/>
+     SDE Intern @Cogoport (Feb 2023 - July 2023)<br/>
+     Ex - SDE Intern @Parth (June 2022 - July 2022)
     <h2>
       Main Projects
     </h2> 
