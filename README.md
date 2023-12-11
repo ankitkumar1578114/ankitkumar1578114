@@ -8,7 +8,7 @@
     </h2> 
      SDE @Cogoport (July 2023 - Present)<br/>
      SDE Intern @Cogoport 6 month (Feb 2023 - July 2023)<br/>
-     Ex - SDE Intern @Parth 2 month (June 2022 - July 2022)
+     SDE Intern @Parth 2 month (June 2022 - July 2022)
     <h2>
       Main Projects
     </h2> 
