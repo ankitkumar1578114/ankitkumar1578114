@@ -6,7 +6,7 @@
     <h2>
       Experience
     </h2> 
-     1. SDE-1 @Cashfree Payments (Feb 2024 - Present)<br/>
+     1. SDE-2 @Cashfree Payments (Feb 2024 - Present)<br/>
      2. SDE-1 @Cogoport (July 2023 - Dec 2023)<br/>
      3. SDE Intern @Cogoport 6 month (Feb 2023 - July 2023)<br/>
      4. SDE Intern @Parth 2 month (June 2022 - July 2022)<br/>
